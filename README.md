@@ -1,7 +1,7 @@
 # word2vec
 
-Word vector representations and applications to machine translation and sentiment analysis.
+Word embeddings and applications to machine translation and sentiment analysis.
 
-[PDF file](https://drive.google.com/file/d/0B86WKpvkt66BZldZc28xUWhLVmM/view?usp=sharing) of presentation: 
+[PDF file](https://drive.google.com/file/d/0B86WKpvkt66BZldZc28xUWhLVmM/view?usp=sharing) of presentation.
 
 [Video](https://youtu.be/te_iaxCcJkU)
