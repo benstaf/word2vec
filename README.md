@@ -4,4 +4,4 @@ Word vector representations and applications to machine translation and sentimen
 
 [PDF file](https://drive.google.com/file/d/0B86WKpvkt66BZldZc28xUWhLVmM/view?usp=sharing) of presentation: 
 
-Video: https://youtu.be/te_iaxCcJkU
+[Video](https://youtu.be/te_iaxCcJkU)
