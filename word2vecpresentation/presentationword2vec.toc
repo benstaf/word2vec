@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Applications}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Machine translation}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Sentiment analysis of movie reviews}{17}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{ Vector averaging (Kaggle tutorial)}{18}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{2}{Convolutional Neural Networks (deep learning)}{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{Other applications of word embeddings}{20}{0}{2}
+\beamer@sectionintoc {3}{Example of word embedding algorithm: GloVe}{21}{0}{3}
+\beamer@subsectionintoc {3}{1}{Build the co-occurrence matrix $X$}{21}{0}{3}
+\beamer@subsectionintoc {3}{2}{Matrix factorization}{23}{0}{3}
+\beamer@sectionintoc {4}{Future work}{29}{0}{4}
+\beamer@sectionintoc {5}{References}{32}{0}{5}

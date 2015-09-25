@@ -1,0 +1,10 @@
+\BOOKMARK [2][]{Outline0.1}{Introduction}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Applications}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.10}{Machine translation}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.17}{Sentiment analysis of movie reviews}{Outline0.2}% 4
+\BOOKMARK [3][]{Outline0.2.3.20}{Other applications of word embeddings}{Outline0.2}% 5
+\BOOKMARK [2][]{Outline0.3}{Example of word embedding algorithm: GloVe}{}% 6
+\BOOKMARK [3][]{Outline0.3.1.21}{Build the co-occurrence matrix X}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.2.23}{Matrix factorization}{Outline0.3}% 8
+\BOOKMARK [2][]{Outline0.4}{Future work}{}% 9
+\BOOKMARK [2][]{Outline0.5}{References}{}% 10
